@@ -231,6 +231,7 @@
     <Content Include="Views\Execucao\Index.cshtml" />
     <Content Include="Views\Execucao\Qualidade.cshtml" />
     <Content Include="Views\Execucao\Aquisicao.cshtml" />
+    <Content Include="Views\Execucao\MobilizarEquipe.cshtml" />
   </ItemGroup>
   <ItemGroup>
     <Folder Include="App_Data\" />

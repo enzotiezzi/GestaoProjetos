@@ -24,5 +24,9 @@ namespace gimeses.Controllers
         {
             return View();
         }
+        public ActionResult MobilizarEquipe()
+        {
+            return View();
+        }
     }
 }
